@@ -10,7 +10,8 @@
 **Интеграции:** AdsPower · Notion API · IMAP · TOTP · 2captcha  
 **Исходники:** закрыты.
 
-<img width="1943" height="665" alt="image_2024-08-20_03-31-09" src="https://github.com/user-attachments/assets/59aad95f-890e-4043-b84a-cd72a75ceb51" />
+<img width="1943" height="665" alt="image_2024-08-20_03-31-09" src="https://github.com/user-attachments/assets/c40ed2dc-b89e-4bc4-9cd3-6c7e19091a33" />
+
 
 ## Задача
 
@@ -58,7 +59,7 @@
 2. Приложение запускает соответствующий браузерный профиль и выполняет сценарий.
 3. В консоли отображаются этапы работы и результат добавления адреса.
 
-<img width="857" height="730" alt="Без-имени-1" src="https://github.com/user-attachments/assets/b054f470-eee0-4df8-89af-1f4cbdd6c2e6" />
+<img width="857" height="730" alt="Без-имени-1" src="https://github.com/user-attachments/assets/268c1c40-7b0b-454f-92e6-5a3f2653c647" />
 
 *В демонстрационных материалах используются вымышленные данные.*
 
