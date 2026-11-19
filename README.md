@@ -27,6 +27,12 @@
 
 *TypeScript · NestJS/Fastify · React · SQLite/Kysely*
 
+### [B2B-кабинет для автосервисов с интеграцией в 1С](./case-studies/b2b-orders-1c/README.md)
+
+Кабинет для оптовых заказов автозапчастей. Реализовал согласование графика отгрузок и защиту от дублей заказов при повторной отправке в 1С.
+
+*TypeScript · NestJS · React · PostgreSQL · 1С:УТ 11.5*
+
 ### [ShardX — доработки Node.js SDK](https://github.com/brodev3/ShardBrowser)
 
 Исправления в SDK проекта ProxyShard:
